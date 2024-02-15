@@ -1,3 +1,6 @@
 [submodule "Frontend2"]
 	path = Frontend2
 	url = https://github.com/Geralt07/crud-job-app
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Geralt07/crud-job-app
